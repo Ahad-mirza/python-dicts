@@ -1,7 +1,7 @@
 
 # Python Dictionary Practice Solutions
 
-## Problem 1: Create a Custom User Profile
+## Problem 1: Create a Custom User Profile👤
 - **Problem:** Write a function that accepts a dictionary of user information and returns a formatted profile string that includes the user's name, age, and location.
 
 ```python
@@ -20,9 +20,9 @@ Name: Ahad, Age: 18, Location: Sialkot
 ```
 
 ---
-# Python Dictionary Practice Solutions
 
-## Problem 2: Merge and Filter Dictionaries
+
+## Problem 2: Merge and Filter Dictionaries 🔀
 - **Problem:** Write a function that merges two dictionaries and filters out any key-value pairs where the value is an empty string.
 
 ```python
@@ -44,7 +44,7 @@ Copy code
 
 ---
 
-## Problem 3: Count Word Frequency
+## Problem 3: Count Word Frequency📝
 - **Problem:** Write a program that uses a dictionary comprehension to count the frequency of each word in a given sentence.
 
 ```python
@@ -64,7 +64,7 @@ Copy code
 ```
 
 ---
-## Problem 4: Flatten a Nested Dictionary
+## Problem 4: Flatten a Nested Dictionary📂
 - **Problem:** Write a program that flattens a nested dictionary using dictionary comprehension.
 
 ```python
@@ -83,7 +83,7 @@ Copy code
 ```
 
 ---
-## Problem 5: Advanced Dictionary Unpacking with Conflict Handling
+## Problem 5: Advanced Dictionary Unpacking with Conflict Handling⚖️
 
 - **Problem:** Write a function that merges multiple dictionaries using dictionary unpacking and handles conflicting keys by summing their values.
 
